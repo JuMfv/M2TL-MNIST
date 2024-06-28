@@ -15,3 +15,5 @@ Ce projet implémente un modèle de reconnaissance de chiffres manuscrits (MNIST
 2. Lancez les conteneurs : `docker-compose up`
 
 Le frontend sera accessible sur `http://localhost:8501`
+
+N'hesiter pas à consulter le notebook sur kaggle https://www.kaggle.com/code/julienyannick/tp-mnist
